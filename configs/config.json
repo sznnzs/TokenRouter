@@ -1,0 +1,38 @@
+{
+  "GSM8K": {
+    "target_llm_ratio": 0.7,
+    "kalman_process_var": 0.1,
+    "kalman_measurement_var": 0.5,
+    "ewma_lambda": 0.05,
+    "beta_gain": 1.0,
+    "k_base": 20,
+    "alpha_severity": 2.0,
+    "L_min": 1.0,
+    "L_max": 4.0,
+    "initial_L": 2.0
+  },
+  "MATH": {
+    "target_llm_ratio": 0.8,
+    "kalman_process_var": 0.1,
+    "kalman_measurement_var": 0.5,
+    "ewma_lambda": 0.05,
+    "beta_gain": 1.0,
+    "k_base": 50,
+    "alpha_severity": 2.0,
+    "L_min": 1.0,
+    "L_max": 4.0,
+    "initial_L": 2.0
+  },
+  "AIME": {
+    "target_llm_ratio": 0.8,
+    "kalman_process_var": 0.1,
+    "kalman_measurement_var": 0.5,
+    "ewma_lambda": 0.05,
+    "beta_gain": 1.0,
+    "k_base": 50,
+    "alpha_severity": 2.0,
+    "L_min": 1.0,
+    "L_max": 4.0,
+    "initial_L": 2.0
+  }
+}
