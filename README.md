@@ -42,7 +42,7 @@ The paper reports the following main comparisons against the pure LLM setup:
 | MATH500 | 89.00 | 88.40 | 56.2% |
 | AIME24 | 46.67 | 46.67 | 76.0% |
 
-These numbers show the intended operating point of the released implementation: near-LLM reasoning quality with substantially lower large-model usage.
+These numbers show the intended operating point of the released implementation: near-LLM reasoning quality with substantially lower large-model usage. 
 
 ## Layout
 
